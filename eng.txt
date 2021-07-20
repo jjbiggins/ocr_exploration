@@ -1,0 +1,70 @@
+Your SDF Service addresses — PLEASE SAVE THESE!
+
+ssh/telnet/ftp
+IRC
+
+Jabber XMPP
+Matrix Homeserver
+[V
+
+WWW Gopher
+WWW Gemini
+Webmail
+Deskshots
+Image Gallery
+SIS T i
+S I S AN
+SDF Mastodon
+SDF Jitsi-Meet
+SDF Gitea
+
+SDF TT-RSS
+
+LR e
+BZFlag
+
+DUV IS
+ANONRADIO
+
+ 
+
+Lo} i1 ]
+
+: irc.sdf.org
+
+: jabber.sdf.org
+
+: matrix.sdf.org
+
+: http://oper.sdf.org
+
+: gopher://sdf.org/users/oper
+: gemini://sdf.org/users/oper
+: https://wm.sdf.org
+
+: http://deskshots.org
+
+: https://sdf.org/g
+
+: https://toobnix.org
+
+: https://pixelfed.sdf.org
+
+: https://mastodon.sdf.org
+
+: https://jitsi.sdf.org
+
+: https://git.sdf.org
+
+: https://ttrss.sdf.org
+
+: mc.sdf.org
+
+: sdf.org:5154
+
+: http://sdf.org/mud
+
+http://anonradio.net
+
+ 
+
